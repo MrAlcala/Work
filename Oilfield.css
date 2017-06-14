@@ -1,0 +1,121 @@
+<style>
+
+body {
+    background-color:#333333;
+}
+
+h1, h2, h3, h4, p {font-family: Arial;
+                    color: white;
+}
+
+
+#experience { 
+    height: 100px;
+    width: 340px;
+    margin: 0 25px 0 0;
+    float: left;
+    font-family: Arial;
+    color: black;
+    text-align: justify;
+    border: solid black 5px;
+    background-color: white;
+    padding-bottom: 320px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#quote { 
+    height: 100px;
+    width: 340px;
+    margin: 0 25px 0 40px;
+    float: left;
+    font-family: Arial;
+    color: black;
+    text-align:  justify;
+    border: solid black 5px;
+    background-color: white;
+    padding-bottom: 320px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#dependable{ 
+    height: 100px;
+    width: 340px;
+    float:left;
+    margin: 0 0 0 35px;
+    font-family: Arial;
+    color: black;
+    text-align: justify;
+    border: solid black 5px;
+    background-color: white;
+    padding-bottom: 320px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 50px 100px 0 0;
+    float: right;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+    font-family: Arial;
+    font-size: 20px    
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:#3E3E3E;
+}
+
+
+li a.active{
+    color:white;
+    background-color:#3E3E3E;
+}
+
+#mylink {
+     text-align: center;
+     font-size: 32px;
+}
+
+#a_link {
+    background-color: #333333;
+    font-family: Arial;
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+}
+
+
+footer{
+    font-family: Arial;
+    background-color: black;
+    position: relative;
+    margin-top: 30px;
+    text-align: center;
+    padding: 15px;
+    color: white;
+    top:10px;
+    width:100%
+    
+    
+}
+
+</style>
